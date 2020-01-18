@@ -1,0 +1,27 @@
+{
+  "name": "demo_api",
+  "version": "1.0.0",
+  "description": "Api for a simple crud app will test out soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rigox/demo_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rigox/demo_api/issues"
+  },
+  "homepage": "https://github.com/rigox/demo_api#readme",
+  "dependencies": {
+    "config": "^3.2.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7",
+    "uuid": "^3.4.0"
+  }
+}
