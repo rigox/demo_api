@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/rigox/demo_api#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "config": "^3.2.5",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
